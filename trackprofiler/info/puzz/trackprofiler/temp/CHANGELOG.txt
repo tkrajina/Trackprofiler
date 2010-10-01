@@ -1,0 +1,28 @@
+
+v0.75:
+	- Ispravljen bug kodselektiranog dijela tracka - prikazivao je 
+	  udaljenost izmedju kranje dvije tocke, a ne duljinu track-a
+	  izmedju njih!
+
+v0.7:
+	- Ispravljen bug zbog koje se nije mogao odabrati interval s misem
+	  (nego samo s tastaturom)
+	- promijenjene boje, i boja kuta kad je odabrana samo jedna tocka
+
+v0.65:
+	- odabir/micanje tocke na spisku svih tocaka tracka
+	- odabir intervala na track-u, udaljenost i prsjecan uspon
+	  na tom intervalu
+
+v0.5:
+	- preracunavanje visine wpt-a svaki put nakon smooth-a
+	- mogucnost mijenjanja duljine strelice-pokazivaca nad wpt-om
+	- ucitavanje istovremeno wpt i plt fajla (ili nekoliko wpt fajlova)
+v0.3:
+	- prikaz/skrivanje svih waypointa odjednom
+	- sve poruke eksternalizirane
+	- ispravljeno par sitnica u GUI-u
+v0.2:
+	- pamcenje direktorija u kojem je ucitana datoteka
+	- petljanje s waypointima
+	- ispravljeno dosta sitnih gresaka u gui-u

@@ -1,0 +1,17 @@
++ da se pamti direktorij u kojemu se je zadnji put ucitavala
+  datoteka
+- Property-iji kao HashMap i snimanje serijaliziranog objekta u
+  home direktorij! (System.getProperties() pa naci koji je to
+  property, vjerojatno home.dir ili slicno)
+- resetira se kod svake operacije
++ da se moze odabrati vise datoteka skupa -> ako je vise wpt-ova
+  zmiksati ih skupa, a ako je vise od 1 plt-a onda greska!
++ prikazivanje/skrivanje waypointa!
++ da se mogu u programu odabrati wpt-ovi koje se nece prikazati
+- eksternalizirati stringove
+
+- da se waypoint moze pojaviti na vise mjesta na track-u!!!!
+- ukupno km uspona
+- ukupno km spustanja
+- prosjecan % uspona
+- prosjecan % spustanja
